@@ -1,0 +1,10 @@
+pip~=21.2.3
+setuptools~=57.4.0
+flask
+flask-bootstrap
+flask-wtf
+flask-testing
+flask-login
+flask-mail
+blinker
+psycopg2
